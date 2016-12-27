@@ -8,7 +8,7 @@ In the project it was described subjects like :
 
 ## Install
 
- go get github.com/andriylesch/go-parse
+ 	go get github.com/andriylesch/go-parse
 
 
 ## Http Get request
